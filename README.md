@@ -1,2 +1,2 @@
 # Usabilidade
-Uma p´gina simples em HTML5 e CSS3
+Uma página simples em HTML5 e CSS3
